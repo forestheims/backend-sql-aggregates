@@ -1,0 +1,2 @@
+-- ROLLUP of amount made per year, month, day
+-- use ROLLUP and EXTRACT YEAR, MONTH, DAY from payment_date

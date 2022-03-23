@@ -1,0 +1,3 @@
+-- the average rental amount by country
+-- include the country name and avg amount
+-- use AVG to average the amount

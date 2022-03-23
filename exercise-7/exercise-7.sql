@@ -1,0 +1,2 @@
+-- customer ranking by total film time watched
+-- similar to exercise 6
